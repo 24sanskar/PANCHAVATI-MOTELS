@@ -1,0 +1,24 @@
+.footer {
+  width: 100%;
+  max-width: 1024px;
+  height: 140px;
+}
+
+.footerTitle {
+  color: #495057;
+}
+
+.fb {
+  color: #3b5998;
+  font-size: 24px;
+  border-right: 2px solid #495057;
+  padding-right: 9px;
+  text-align: center;
+}
+
+.ig {
+  font-size: 24px;
+  color: #d62976;
+  padding-left: 9px;
+  text-align: center;
+}
