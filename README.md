@@ -28,6 +28,7 @@ https://panchavti-motels24.netlify.app/
 
 1. react-router-dom
 2. fontawesome
+3. react-date-range
 
 # Getting Started with Create React App
 
