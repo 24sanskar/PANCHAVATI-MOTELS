@@ -80,7 +80,7 @@ const Hotel = () => {
         )}
         <div className="hotelWrapper">
           <button className="bookNow">Reserve or Book Now!</button>
-          <h1 className="hotelTitle">Tower Street Apartments</h1>
+          <h1 className="hotelTitle">PANCHAVATI MOTELS</h1>
           <div className="hotelAddress"></div>
           <span className="hotelDistance">
             Excellent location – 1 km from center
