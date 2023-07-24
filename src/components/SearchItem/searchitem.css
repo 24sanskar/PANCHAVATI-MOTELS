@@ -99,10 +99,15 @@
   cursor: pointer;
   border-radius: 5px;
 }
-/* 
+
 @media only screen and (max-width: 600px) {
+  .siImg {
+    width: 350px;
+    object-fit: fill;
+  }
+
   .searchItem {
     display: flex;
     flex-direction: column;
   }
-} */
+}
