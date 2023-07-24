@@ -154,4 +154,21 @@
   .slider {
     width: 100%;
   }
+
+  .hotelTitle {
+    font-size: 1rem;
+  }
+
+  .bookNow {
+    font-size: 0.7rem;
+    width: 160px;
+  }
+
+  .hotelDetailsPrice h2 {
+    font-size: 1.2rem;
+  }
+
+  .hotelDetailsPrice button {
+    font-size: 0.7rem;
+  }
 }
