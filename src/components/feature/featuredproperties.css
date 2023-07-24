@@ -49,3 +49,14 @@
   color: #f2b01e;
   margin-right: 5px;
 }
+
+/*  */
+
+
+@media only screen and (max-width: 600px) {
+  .fp {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
