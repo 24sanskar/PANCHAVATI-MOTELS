@@ -131,7 +131,7 @@
 
 .sliderImg {
   width: 80%;
-  height: 80vh;
+ height: auto;
 }
 
 .close {
