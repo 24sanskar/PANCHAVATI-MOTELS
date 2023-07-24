@@ -27,3 +27,11 @@
   bottom: 20px;
   left: 20px;
 }
+
+/*  */
+
+@media only screen and (max-width: 600px) {
+  .featuredTitles h1 {
+    font-size: 1.1rem;
+  }
+}
